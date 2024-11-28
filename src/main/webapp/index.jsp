@@ -15,7 +15,7 @@
 <h1>This is my "Poll SCM" check </h1>
 
 <h1>This is my "Poll SCM" check </h1>
-<h1>This is my "Scripted Pipeline" check </h1>
+
 
 
 
